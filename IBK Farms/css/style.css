@@ -1,0 +1,14 @@
+body {
+  background-color: #B7BABC;
+  color: darkblue;
+}
+
+footer {
+  text-align: center;
+}
+
+#logo{
+  margin: 25px;
+  height: 150px;
+
+}
