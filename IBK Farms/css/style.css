@@ -1,14 +1,46 @@
-body {
+#bd {
   background-color: #B7BABC;
   color: darkblue;
+  font-family: 'Lobster', cursive;
 }
 
 footer {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  border-top: black 2px solid;
 }
 
 #logo{
-  margin: 25px;
-  height: 150px;
-
+  margin: 0px;
+  height: 75px;
 }
+
+.navbar{
+  font-size: 1.75em;
+  background-color: #9e9e9d;
+  border-bottom: 3px black solid;
+  color: darkblue;
+  position:fixed;
+  text-decoration: none;
+}
+
+.nav-item{
+  color: black;
+}
+
+.nav-item:hover{
+  text-decoration: underline;
+  color: black;
+}
+
+.headline{
+  text-align: center;
+  font-size: 1.6em; 
+}
+
+.products{
+  text-align: center;
+  list-style: none;
+  font-size: 1.5em;
+}
+
