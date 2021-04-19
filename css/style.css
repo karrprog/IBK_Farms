@@ -1,0 +1,46 @@
+#bd {
+  background-color: #B7BABC;
+  color: rgb(0,4,156);
+  font-family: 'Lobster', cursive;
+}
+
+footer {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  border-top: black 2px solid;
+}
+
+#logo{
+  margin: 0px;
+  height: 75px;
+}
+
+.navbar{
+  font-size: 1.75em;
+  background-color: black;
+  border-bottom: 10px rgb(0,4,156) solid;
+  color: rgb(0,4,156);
+  position:fixed;
+  text-decoration: none;
+}
+
+.nav-item{
+  color: black;
+}
+
+.nav-item:hover{
+  text-decoration: underline;
+  color: black;
+}
+
+.headline{
+  text-align: center;
+  font-size: 1.6em; 
+}
+
+.products{
+  text-align: center;
+  list-style: none;
+  font-size: 1.5em;
+}
+
