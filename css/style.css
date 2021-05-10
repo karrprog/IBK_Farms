@@ -24,6 +24,10 @@ footer {
   text-decoration: none;
 }
 
+.nav-link{
+color: rgb(0,4,156)
+}
+
 .nav-item{
   color: black;
 }
@@ -43,4 +47,3 @@ footer {
   list-style: none;
   font-size: 1.5em;
 }
-
