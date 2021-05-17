@@ -1,3 +1,5 @@
+
+
 #bd {
   background-color: #B7BABC;
   color: rgb(0,4,156);
@@ -7,7 +9,7 @@
 footer {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  border-top: black 2px solid;
+  border-top: black 2px solid;    
 }
 
 #logo{
@@ -44,3 +46,51 @@ footer {
   font-size: 1.5em;
 }
 
+<<<<<<< HEAD
+.aboutblog{
+  width: 45%;
+  margin: 15px;
+  font-size: 1.25em;
+  float: left;
+}
+
+.packagepic{
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+
+.pageTitle{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.AboutHistory{
+  width: 45%;
+  margin: 40px;
+  font-size: 1.5em;
+  float:right;
+}
+
+.AboutHistory h2{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.AboutHistory p{
+  text-align: center;
+}
+
+.AboutUS{
+  width: 100%;
+  background-color: blueviolet;
+}
+
+.aboutblog figcaption{
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+=======
+>>>>>>> parent of f098e56 (Adding Pics and Videos)
